@@ -1,0 +1,66 @@
+[
+    {
+      "id": "01",
+      "name": "Maquina Smith",
+      "color": "blanca",
+      "marca": "Icarian",
+      "img": "./img/Smith Machine DPL3.png",
+      "precio": "50"
+    },
+    {
+      "id": "02",
+      "name": "Press Inclinado",
+      "color": "blanca",
+      "marca": "Precor",
+      "img": "./img/dpl_incline press.png",
+      "precio": "40"
+    },
+    {
+      "id": "03",
+      "name": "Remo Bajo",
+      "color": "Gris",
+      "marca": "Icarian",
+      "img": "./img/DPL0311 Incline Lever Row.jpeg",
+      "precio": "30"
+    },
+    {
+      "id": "04",
+      "name": "Press Banco Plano",
+      "color": "Negro",
+      "marca": "Precor",
+      "img": "./img/DBR0408_Olympic-Flat-Bench-3Q-View.jpg",
+      "precio": "20"
+    },
+    {
+      "id": "05",
+      "name": "Banco Lumbares",
+      "color": "Blanca",
+      "marca": "Precor",
+      "img": "./img/DBR0312 Back Extension.jpeg",
+      "precio": "60"
+    },
+    {
+      "id": "06",
+      "name": "Banco Scoth",
+      "color": "Negro",
+      "marca": "Icarian",
+      "img": "./img/DBR0202 Preacher Curl Bench.jpeg",
+      "precio": "70"
+    },
+    {
+        "id": "07",
+        "name": "Polea Alta",
+        "color": "Negro",
+        "marca": "Precor",
+        "img": "./img/304_pulldown_438wx515h_hero.jpg",
+        "precio": "70"
+      },
+    {
+        "id": "08",
+        "name": "Polea Remo Bajo",
+        "color": "Negro",
+        "marca": "Icarian",
+        "img": "./img/302_longpull_472w_hero.png",
+        "precio": "100"
+      }
+  ]
